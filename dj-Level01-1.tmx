@@ -3,7 +3,7 @@
  <tileset firstgid="1" source="gameObjects5.tsx"/>
  <layer id="1" name="Camada de Tiles 1" width="10" height="10">
   <data encoding="csv">
-1,1,1,1,2,2,1,1,1,1,
+1,1,1,1,1,2,1,1,1,1,
 1,5,5,5,5,5,5,5,5,1,
 1,5,5,5,5,5,5,5,5,1,
 1,1,1,1,1,1,1,5,5,1,
