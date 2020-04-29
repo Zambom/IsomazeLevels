@@ -1,0 +1,7 @@
+{
+"characterSpeed":5.0,
+"cameraDistanceFromCharacter":3.5,
+"lightRange":5.0,
+"lightIntensity":3.0,
+"isTouchInTileOn":true
+}
