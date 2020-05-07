@@ -2,5 +2,7 @@
 "characterSpeed":5.0,
 "cameraDistanceFromCharacter":3.5,
 "lightRange":7.0,
-"lightIntensity":10.0
+"lightIntensity":10.0,
+"scoreLimiar": 7500,
+"baseScore": 10000
 }
